@@ -1,8 +1,8 @@
 class IOString():
 
     def get_String(self):
-        self.strl =input("Input string: ")
-      
+        self.strl=input("Input string: ")
+       
     def print_String(self):
         print("Result is...:", self.strl.upper())
 
