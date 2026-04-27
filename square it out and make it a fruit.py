@@ -8,7 +8,7 @@ print("After append:", fruits)
 fruits.insert(1, "kiwi")
 print("After insert:", fruits)
 
-fruits.remove("mango")
+fruits.remove("apple")
 print("After remove:", fruits)
 
 popped = fruits.pop()
